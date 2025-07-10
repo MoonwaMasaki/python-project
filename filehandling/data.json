@@ -1,0 +1,16 @@
+{
+  "name": "Angie",
+  "age": 24,
+  "isGraduate": true,
+  "courses": ["Computer Science", "Mathematics", "Ethics"],
+  "contact": {
+    "email": "angie@example.com",
+    "phone": "+254712345678"
+  },
+  "grades": {
+    "Math": 88,
+    "CS": 95,
+    "Ethics": 90
+  },
+  "scholarship": null
+}
